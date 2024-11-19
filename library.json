@@ -1,0 +1,11 @@
+{
+  "name": "EasyPin_ESP32",
+  "description": "Easy pins control for ESP32 HAL",
+  "version": "0.0.1",
+  "repository":
+  {
+      "type": "git",
+      "url": "https://github.com/Dragon-Knight/Library_EasyPin_ESP32.git"
+  },
+  "headers": ["EasyPinD_ESP32.h"]
+}
